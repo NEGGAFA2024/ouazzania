@@ -1,0 +1,13 @@
+
+après l'entrée au dossier concerné
+
+voilà les étapes ci-après 
+ git init
+ git add index.html
+git add style.css
+git add NEGG.js
+
+ git commit -m "ajout de l'index html"
+git branch -M main 
+git remote add origin https://github.com/NEGGAFA2024/neggafasite. github.io.git
+git push -u origin main
